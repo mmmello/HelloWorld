@@ -1,1 +1,1 @@
-# Este arquivo é de estrema importancia
+# Este arquivo é de extrema importancia
